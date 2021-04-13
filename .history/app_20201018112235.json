@@ -18,8 +18,7 @@
     ],
     "ios": {
       "supportsTablet": true,
-      "userInterfaceStyle": "automatic",
-      "bundleIdentifier": "com.cuvehoodstudios.Stats"
+      "userInterfaceStyle": "automatic"
     },
     "web": {
       "favicon": "./assets/favicon.png"
